@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Portfolio_professionnel_de_Maxence_GUERY.png" alt="Portfolio Professionnel — Maxence GUERY" width="100%">
+  <img src="CV_Expert_IA_et_Développement.png" alt="CV Expert IA et Développement — Maxence GUERY" width="100%">
 </div>
 
 <br>
